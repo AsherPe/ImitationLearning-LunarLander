@@ -16,18 +16,11 @@ RL/expert_ppo_lunarlander_v3.zip
 RL/Screen\ Recording*.mov
 RL/Screenshot*.png
 Inference/lunar_lander_video.mp4
-Imitation-Learning-LunarLander/Imitation-Learning-LunarLander.zip
+
 
 # OS files
 .DS_Store
 Thumbs.db
 
 
-.DS_Store
-*.pyc
-__pycache__/
-models/*.keras
-models/*.zip
-data/*.npz
-*.mp4
-*.mov" 
+*.zip
